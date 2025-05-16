@@ -1,14 +1,19 @@
-﻿# Video2chars
-彩色字符画, end2end generate a video whose image is transfered to characters, like this
-![result](https://github.com/LongxingTan/Video2chars/blob/master/out.png)
+﻿# CyberLLM
 
-## dependencies
-- moviepy
-- PIL
-- numpy
+Cybersecurity-focused Large Language Models.
 
-## usage
-it works for both movie and picture
-- python run.py
-- if movie: video.movie2movie('./data/example.MOV', 'out.mp4')
-- if picture: video.frame2frame('./data/example.jpg','out.png') 
+
+## Features
+
+
+## Model
+We use the data based on [primus](https://arxiv.org/abs/2502.11191)
+
+
+
+## Deployment
+
+## Performance
+
+
+## Cite
